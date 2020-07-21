@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Manish 
 
-![About Me]()
+![About Me](https://github.com/Manishsharma203/Manishsharma203/blob/master/assets/about-me.png)
 
 ### About me
 
