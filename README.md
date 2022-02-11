@@ -10,5 +10,5 @@ I am a front-End software engineer who is passionate about solving problems, bui
 
 * Linkedin : (https://www.linkedin.com/in/manish203)
 * Email : (mail@manish-sharma.com)
-* Portfolio : (https://www.manish-sharma.com/)
+* Portfolio : (https://www.manish-sharma.in/)
 
